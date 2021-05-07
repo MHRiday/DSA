@@ -6,6 +6,7 @@
 3. [Left Rotation](Arrays/left-rotation.cpp)
 4. [Max Subarray Sum](Arrays/max-subarray-sum.cpp)
 5. [Shift Negatives](Arrays/shift-negatives.cpp)
+6. [Boyer–Moore Voting Algorithm](Arrays/boyer_more.cpp)
 
 ## Graphs
 1. [Bellman Ford Algorithm](Graphs/bellmam-ford.cpp)
@@ -16,18 +17,20 @@
 1. [Karatsuba](Multiplication/karatsuba.cpp)
  
 ## Linked Lists
-1. [All possible insertions](Linked-Lists/all-possible-insertions.cpp)
+1. [All possible insertions](Linked-Lists/all-possible-insertion.cpp)
 2. [Singly linked lists](Linked-Lists/singly.cpp)
 3. [doubley linked lists](Linked-Lists/doubly.cpp)
 4. [Circular linked lists](Linked-Lists/circular.cpp)
 5. [Reversing a linked lists](Linked-Lists/reverse.cpp)
+5. [Merging two sorted linked lists](Linked-Lists/merge.cpp)
 
 ## Searching
 1. [Linear Search](Searching/linear-search.cpp)
 2. [Jump Search](Searching/jump-search.cpp)
 3. [Binary Search](Searching/binary-search.cpp)
 4. [Finding squareroot using Binary search](Searching/sqrt-monotonic-binary-search.cpp)
-3. [KMP String Searching](Searching/kmp.cpp)
+5. [KMP String Searching](Searching/kmp.cpp)
+6. [Ternary Search](Searching/Ternary-search.cpp)
 
 ## Stacks
 1. [Balancing Parenthesis](Stacks/balanced-parenthesis.cpp)
